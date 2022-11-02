@@ -1,3 +1,2 @@
 # -*- coding: utf- 8 -*-
-print "hello, world!" 
-print u"Привет, мир!"
+print ("hello, world!")
